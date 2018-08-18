@@ -1,4 +1,4 @@
-***React From Scratch
+**React From Scratch**
 
 A Simple instalation  React
 
